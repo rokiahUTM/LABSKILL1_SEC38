@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabSkill 1</string>
+    <string-array name="array_course">
+        <item>Mathematic</item>
+        <item>Geography</item>
+        <item>English</item>
+    </string-array>
+</resources>
